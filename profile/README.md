@@ -2,46 +2,46 @@
 
 Request Count empowers users with a comprehensive crypto finance tracker that simplifies managing their digital assets. 🚀
 
-## Key Links:
+## 🔗 Key Links:
 
 **Request Count Architecture:** https://miro.com/app/board/uXjVK20t42w=/?share_link_id=497392397803 
 
-## Main Repos
+## 📂 Main Repos
 
-### 1. Home Page Repo:
+### 1.🏠 Home Page Repo:
 This repository contains the HomePage Code.
 - **Deployed Site:** **🔗[click here](https://request-count.vercel.app)**
 - **Repo Link:**  **🔗[click here](https://github.com/RequestCount/request_count_home)**
 
-### 2. Application Repo:
+### 2.💻 Application Repo:
 This repository contains the main application code, that includes all core functionalities, APIs that drive the Request Count.
 - **Deployed Site:**  **🔗[click here](https://request-accounting.vercel.app/)**
 - **Repo Link:** **🔗[click here](https://github.com/RequestCount/request_count_app)**
 
-## Key Features:
+## 🔑 Key Features:
 
-**Dashboard:**
-Overview of account balances, recent transactions, and key metrics.
+📊**Dashboard:**
+- Overview of account balances, recent transactions, and key metrics.
 
-**Transactions:**
+💸**Transactions:**
 - View and manage all transactions, including Request Network invoices.
 - Integrate invoice creation functionality.
 
-**Analytics & Reports:**
+📈**Analytics & Reports:**
 - Generate comprehensive financial reports.
 - Gain valuable insights into spending habits and overall financial health.
 - Analyze transaction fees, income vs. expense by token, and net worth over time.
 - Generate tax reports with tools for estimation and calculation.
 
-**User Interface:**
+🎨**User Interface:**
 - Intuitive and user-friendly design.
 - Side navigation bar for easy access to all features.
 - Filtering options across various transaction details.
 
-**Potential Features:**
+🌟**Potential Features:**
 - Implement features for analyzing specific token transactions and tracking the status of Request Network invoices (pending vs. completed)
 
-## Demo Video:
+## 📽️ Demo Video:
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=ZHF5ZVV7bJM">
@@ -49,7 +49,7 @@ Overview of account balances, recent transactions, and key metrics.
   </a>
 </div>
 
-## Platform's Screenshots:
+## 🖼️ Platform's Screenshots:
 
 <p align="center">
   <img src="https://github.com/RequestCount/.github/blob/main/images/RC_HomePage.jpg" alt="Home Page" width="500">
