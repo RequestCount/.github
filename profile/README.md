@@ -15,7 +15,7 @@ This repository contains the HomePage Code.
 
 ### 2.💻 Application Repo:
 This repository contains the main application code, that includes all core functionalities, APIs that drive the Request Count.
-- **Deployed Site:**  **🔗[click here](https://request-accounting.vercel.app/)**
+- **Deployed Site:**  **🔗[click here](https://app-request-count.vercel.app/)**
 - **Repo Link:** **🔗[click here](https://github.com/RequestCount/request_count_app)**
 
 ## 🔑 Key Features:
