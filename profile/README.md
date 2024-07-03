@@ -8,15 +8,15 @@ Request Count empowers users with a comprehensive crypto finance tracker that si
 
 ## Main Repos
 
-1. Home Page Repo
+### 1. Home Page Repo:
 This repository contains the HomePage Code.
-- Deployed Site: **🔗[click here](https://request-count.vercel.app)**
-- Repo Link:  **🔗[click here](https://github.com/RequestCount/request_count_home)**
+- **Deployed Site:** **🔗[click here](https://request-count.vercel.app)**
+- **Repo Link:**  **🔗[click here](https://github.com/RequestCount/request_count_home)**
 
-2. Application Repo
+### 2. Application Repo:
 This repository contains the main application code, that includes all core functionalities, APIs that drive the Request Count.
-- Deployed Site:  **🔗[click here](https://app.request-count.vercel.app)**
-- Repo Link: **🔗[click here](https://github.com/RequestCount/request_count_app)**
+- **Deployed Site:**  **🔗[click here](https://request-accounting.vercel.app/)**
+- **Repo Link:** **🔗[click here](https://github.com/RequestCount/request_count_app)**
 
 ## Key Features:
 
@@ -43,6 +43,26 @@ Overview of account balances, recent transactions, and key metrics.
 
 ## Demo Video:
 
-[Watch the Demo Video](https://youtu.be/nwrFYYUEdxg?si=z7dhAmnvi6nJS1)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ZHF5ZVV7bJM">
+    <img src="https://img.youtube.com/vi/nwrFYYUEdxg/0.jpg" alt="Watch the video">
+  </a>
+</div>
 
+## Platform's Screenshots:
 
+<p align="center">
+  <img src="https://github.com/RequestCount/.github/blob/main/images/RC_HomePage.jpg" alt="Home Page" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/RequestCount/.github/blob/main/images/RC_benefits.jpg" alt="Benefits" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/RequestCount/.github/blob/main/images/RC_Transactions.jpg" alt="Transactions" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/RequestCount/.github/blob/main/images/RC_Analytics.jpg" alt="Transactions" width="500">
+</p>
