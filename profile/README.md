@@ -11,12 +11,12 @@ Request Count empowers users with a comprehensive crypto finance tracker that si
 1. Home Page Repo
 This repository contains the HomePage Code.
 - Deployed Site: **🔗[click here](https://request-count.vercel.app)**
-Link:  **🔗[click here](https://github.com/RequestCount/request_count_home)**
+- Repo Link:  **🔗[click here](https://github.com/RequestCount/request_count_home)**
 
 2. Application Repo
 This repository contains the main application code, that includes all core functionalities, APIs that drive the Request Count.
-Deployed Site:  **🔗[click here](https://app.request-count.vercel.app)**
-Link: **🔗[click here](https://github.com/RequestCount/request_count_app)**
+- Deployed Site:  **🔗[click here](https://app.request-count.vercel.app)**
+- Repo Link: **🔗[click here](https://github.com/RequestCount/request_count_app)**
 
 ## Key Features:
 
