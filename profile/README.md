@@ -4,7 +4,7 @@ Request Count empowers users with a comprehensive crypto finance tracker that si
 
 ## 🔗 Key Links:
 
-**Request Count Architecture:** **🔗[click here](https://miro.com/app/board/uXjVK20t42w=/?share_link_id=497392397803)**
+**Request Count Architecture:** **🔗[Miro Board](https://miro.com/app/board/uXjVK20t42w=/?share_link_id=497392397803)**
 
 ## 📂 Main Repos
 
