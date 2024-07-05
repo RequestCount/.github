@@ -44,7 +44,7 @@ This repository contains the main application code, that includes all core funct
 ## 📽️ Demo Video:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ZHF5ZVV7bJM">
+  <a href="">
     <img src="https://img.youtube.com/vi/nwrFYYUEdxg/0.jpg" alt="Watch the video">
   </a>
 </div>
